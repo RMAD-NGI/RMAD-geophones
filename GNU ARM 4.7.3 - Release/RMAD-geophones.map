@@ -2442,7 +2442,7 @@ LOAD c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/
                 0x20020000                PROVIDE (__stack, __StackTop)
                 0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
                 0x00000001                ASSERT ((0x100000 >= (__etext + SIZEOF (.data))), FLASH memory overflowed !)
-OUTPUT(RMAD-geophone.axf elf32-littlearm)
+OUTPUT(RMAD-geophones.axf elf32-littlearm)
 
 .ARM.attributes
                 0x00000000       0x29

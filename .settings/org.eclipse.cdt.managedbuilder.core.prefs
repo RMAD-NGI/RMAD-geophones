@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+environment/buildEnvironmentInclude/com.silabs.ide.si32.gcc.debug\#com.silabs.ide.si32.gcc\:4.7.3.20130312/CPATH/delimiter=;
+environment/buildEnvironmentInclude/com.silabs.ide.si32.gcc.debug\#com.silabs.ide.si32.gcc\:4.7.3.20130312/CPATH/operation=remove
+environment/buildEnvironmentInclude/com.silabs.ide.si32.gcc.debug\#com.silabs.ide.si32.gcc\:4.7.3.20130312/C_INCLUDE_PATH/delimiter=;
+environment/buildEnvironmentInclude/com.silabs.ide.si32.gcc.debug\#com.silabs.ide.si32.gcc\:4.7.3.20130312/C_INCLUDE_PATH/operation=remove
+environment/buildEnvironmentInclude/com.silabs.ide.si32.gcc.debug\#com.silabs.ide.si32.gcc\:4.7.3.20130312/append=true
+environment/buildEnvironmentInclude/com.silabs.ide.si32.gcc.debug\#com.silabs.ide.si32.gcc\:4.7.3.20130312/appendContributed=true
+environment/buildEnvironmentLibrary/com.silabs.ide.si32.gcc.debug\#com.silabs.ide.si32.gcc\:4.7.3.20130312/LIBRARY_PATH/delimiter=;
+environment/buildEnvironmentLibrary/com.silabs.ide.si32.gcc.debug\#com.silabs.ide.si32.gcc\:4.7.3.20130312/LIBRARY_PATH/operation=remove
+environment/buildEnvironmentLibrary/com.silabs.ide.si32.gcc.debug\#com.silabs.ide.si32.gcc\:4.7.3.20130312/append=true
+environment/buildEnvironmentLibrary/com.silabs.ide.si32.gcc.debug\#com.silabs.ide.si32.gcc\:4.7.3.20130312/appendContributed=true

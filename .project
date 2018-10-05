@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>RMAD jernbanesensor - smartmeshIP - hw5 - sw5</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.genmakebuilder</name>
+			<triggers>clean,full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.ScannerConfigBuilder</name>
+			<triggers>full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+		<nature>com.silabs.ide.project.core.SLSProjectNature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>BSP/bsp_trace.c</name>
+			<type>1</type>
+			<locationURI>PARENT-5-PROJECT_LOC/SiliconLabs/SimplicityStudio/v3/developer/sdks/efm32/v2/kits/common/bsp/bsp_trace.c</locationURI>
+		</link>
+		<link>
+			<name>BSP/bsp_trace.h</name>
+			<type>1</type>
+			<locationURI>PARENT-5-PROJECT_LOC/SiliconLabs/SimplicityStudio/v3/developer/sdks/efm32/v2/kits/common/bsp/bsp_trace.h</locationURI>
+		</link>
+		<link>
+			<name>Drivers/retargetio.c</name>
+			<type>1</type>
+			<location>C:/SiliconLabs/SimplicityStudio/v3/developer/sdks/efm32/v2/kits/common/drivers/retargetio.c</location>
+		</link>
+	</linkedResources>
+</projectDescription>
